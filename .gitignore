@@ -1,0 +1,8 @@
+
+.idea/
+src/
+weixin-pay-sdk-project/weixin-pay-sdk-project.iml
+weixin-pay-sdk-web-project/weixin-pay-sdk-web-project.iml
+weixin-pay-sdk-project/target/
+weixin-pay-sdk-web-project/target/
+weixinpaysdk.iml
